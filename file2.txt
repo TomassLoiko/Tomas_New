@@ -2,3 +2,4 @@ Hello Git! Here I'm!
 
 Commit is successful!
 new branch line
+One more line for conflict branch
